@@ -1,6 +1,6 @@
-# PhishPatrol-ReinforcementLearning
+# PhishUrlHunter-ReinforcementLearning
 
-**PhishPatrol** is a phishing detection project that identifies malicious URLs and websites using Deep Reinforcement Learning, specifically a Deep Q-Network (DQN). The project includes feature extraction pipelines, backend server logic, and a web-based frontend for real-time phishing detection.
+**PhishUrlHunter** is a phishing detection project that identifies malicious URLs and websites using Deep Reinforcement Learning, specifically a Deep Q-Network (DQN). The project includes feature extraction pipelines, backend server logic, and a web-based frontend for real-time phishing detection.
 
 ---
 
@@ -21,8 +21,8 @@ You can get the project in two ways:
 
 **Clone the repository**:  
 ```bash
-git clone https://github.com/RamakotireddyGuttikonda/PhishPatrol-ReinforcementLearning.git
-cd PhishPatrol-ReinforcementLearning
+git clone https://github.com/RamakotireddyGuttikonda/PhishUrlHunter.git
+cd PhishUrlHunter
 ```
 
 
@@ -47,7 +47,7 @@ pip install -r requirements.txt
 
 **Run the project**:  
 ```bash
-cd PhishPatrol-ReinforcementLearning
+cd PhishUrlHunter
 npm run dev
 
 cd backend
