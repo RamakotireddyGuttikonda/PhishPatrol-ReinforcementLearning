@@ -68,5 +68,5 @@ python server.py
 
 
 **Thank you**
-- If you consider my project as better please star it
+- If you consider my project a good one !! please star it !!
 - you can contact me via ramakotireddyguttikonda8@gmail.com
