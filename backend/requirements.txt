@@ -3,4 +3,6 @@ numpy
 tqdm
 scikit-learn
 tldextract
+flask
 matplotlib
+flask_cors
